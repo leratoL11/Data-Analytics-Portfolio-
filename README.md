@@ -1,6 +1,6 @@
 # Data-Analytics-Portfolio-
 
-Welcome to my data analytics portfolio! This repository showcases my projects demonstrating skills in Excel and SQL for data cleaning and exploratory data analysis (EDA).
+Welcome to my data analytics portfolio! This repository showcases my projects demonstrating skills in Excel, SQL, and Power BI for data cleaning and exploratory data analysis (EDA).
 
 ## Projects
 
